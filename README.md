@@ -1,0 +1,2 @@
+# Comparing-Deep-Learning-and-Statistical-Models-for-Stock-Price-Prediction
+This project explores stock price prediction using time series analysis. It compares the performance of LSTM, a deep learning model, with ARIMA, a statistical model. The focus is on forecasting HP Inc.'s future stock prices based on historical data. The aim is to highlight the strengths and weaknesses of both approaches in predicting stock trends.
